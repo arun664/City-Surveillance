@@ -1,0 +1,18 @@
+Editing the front end
+
+Replacing Title tag
+Services -> Solutions
+Portfolio -> Key Features
+
+Replacing the order of presentation.
+
+Home 
+Solutions
+Key Features
+About
+Contact
+
+Replaced about data.
+
+Added facebook link only.
+Need Links for Instagram, Twitter.
