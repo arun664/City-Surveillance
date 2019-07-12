@@ -609,3 +609,13 @@ footer span
         }
 }
 /* end media 360 */
+#chief {
+    height: 10em;
+    position: relative;
+		}
+#chief p {
+	
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%) }
